@@ -54,20 +54,18 @@
 ###
 
 ##                                                                                                  
+# 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=Machattt&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Machattt&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Machattt&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2 align="left"🔥 My GitHub Stats</h2>
-<div align="center">
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=Machattt&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=navyza&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats"/>
+---
+[![](https://visitcount.itsvg.in/api?id=Machattt&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyza&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=navyza&theme=tokyonight&hide_border=true" height="170" alt="streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=navyza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
-
+##
 
 <h2 align="center">🎮 Games</h2>
 <picture>
