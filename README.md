@@ -53,19 +53,21 @@
 
 ###
 
+##                                                                                                  
 
-<h2 align="left">🔥 Stats</h2>
+<h2 align="left"🔥 My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyza&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyza&layout=compact&theme=dracula" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=navyza&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyza&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=navyza&theme=tokyonight&hide_border=true" height="170" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=navyza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=navyza&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=navyza&theme=dracula&no-frame=true&margin-w=8&margin-h=8" height="180" />
-</div>
-
-###
 
 <h2 align="center">🎮 Games</h2>
 <picture>
