@@ -17,9 +17,9 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="left">
-📚 I'm currently learning Web Development
-🎓 Education: Student at SMK Negeri 1 Surabaya  
-🎯 Goals: Become a professional developer that inspires others  
+📚 I'm currently learning Web Development <br>
+🎓 Education: Student at SMK Negeri 1 Surabaya <br>
+🎯 Goals: Become a professional developer that inspires others <br>
 🎲 Fun fact: I love learning Russian & Italian  
 </p>
 
