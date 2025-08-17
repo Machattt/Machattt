@@ -17,10 +17,10 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="left">
-✨ Creating bugs since 2023 <br>
-📚 I'm currently learning Web Development (HTML, CSS, JS, Python) <br>
-🎯 Goals: Become a professional developer that inspires others <br>
-🎲 Fun fact: I love learning Russian & Italian
+📚 I'm currently learning Web Development
+🎓 Education: Student at SMK Negeri 1 Surabaya  
+🎯 Goals: Become a professional developer that inspires others  
+🎲 Fun fact: I love learning Russian & Italian  
 </p>
 
 ###
