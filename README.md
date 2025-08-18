@@ -21,7 +21,9 @@
 🎓 Education: Student at SMK Negeri 1 Surabaya <br>
 🎯 Goals: Become a professional developer that inspires others <br>
 🎲 Fun fact: I love learning Russian & Italian <br>
-🤝 Open to: Collaborating on beginner-friendly projects & learning together 
+💡 Interests: Cyber Security & Software Development <br>
+🚀 Currently working on: Building my personal portfolio website <br>
+🤝 Open to: Collaborating on beginner-friendly projects & learning together
 </p>
 
 ###
