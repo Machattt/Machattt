@@ -1,10 +1,7 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-    <img height="150" alt="coding animation" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </picture>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 ###
 
 <h1 align="center">Hey  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
@@ -17,11 +14,8 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgflip.com/65efzo.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
-  <img align="right" height="150" alt="coding animation" src="https://i.imgflip.com/65efzo.gif" />
-</picture>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <p align="left">
 📚 I'm currently learning Web Development <br>
 🎓 Education: Student at SMK Negeri 1 Surabaya <br>
