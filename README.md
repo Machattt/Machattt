@@ -88,7 +88,6 @@
 
 <img src="https://raw.githubusercontent.com/Machattt/Machattt/output/snake.svg" alt="Snake animation" />
 
-
 ###
 
 ### ✨ Motto
