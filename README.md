@@ -67,6 +67,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machattt&theme=dracula" alt="activity graph"/>
 </p>
+
+##
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Machattt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+</p>
+
 ##
 
 <h2 align="center">🎮 My Games</h2>
