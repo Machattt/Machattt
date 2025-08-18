@@ -77,7 +77,7 @@
 
 ##
 
-<h2 align="center">🕹️ Fun Games on my Profile</h2>
+### 🕹️ Fun Games on my Profile
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Machattt/Machattt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Machattt/Machattt/output/pacman-contribution-graph.svg">
