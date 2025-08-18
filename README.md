@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hey  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="center">Hi there  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Navyza Marcha Vega</h1>
 
 ###
 
-<p align="center">My name is Navyza Marcha Vega and I'm a Web Developer Enthusiast, from Surabaya 🇮🇩 <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
+<p align="center">Student & Web Developer Enthusiast from Indonesia 🇮🇩 <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
 
 ###
 
