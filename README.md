@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Student & Web Developer Enthusiast from Indonesia 🇮🇩 <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
+<p align="center">Student & Web Developer Enthusiast from Indonesia <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
 
 ###
 
