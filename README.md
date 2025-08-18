@@ -57,16 +57,16 @@
 
 ##                                                                                                  
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=Machattt&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Machattt&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Machattt&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Machattt&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Machattt&icon=7&color=10)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Machattt&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machattt&theme=radical" alt="streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machattt&layout=compact&theme=radical" alt="langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Machattt&theme=dracula" alt="activity graph"/>
+</p>
 ##
 
 <h2 align="center">🎮 My Games</h2>
