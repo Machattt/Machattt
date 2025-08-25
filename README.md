@@ -70,5 +70,4 @@
 
 ###
 
-### ✨ Motto
 > “motto hidup saya iso gak iso devo farcela”
