@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Student & Web Developer Enthusiast from Indonesia <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
+<p align="center">Student from Indonesia <img src="https://flagcdn.com/w20/id.png" width="30"/> </p>
 
 ###
 
@@ -19,7 +19,6 @@
 <p align="left">
 📚 I'm currently learning Web Development <br>
 🎓 Education: Student at SMK Negeri 1 Surabaya <br>
-🎯 Goals: Become a professional developer that inspires others <br>
 🎲 Fun fact: I love learning Russian & Italian <br>
 </p>
 
@@ -72,4 +71,4 @@
 ###
 
 ### ✨ Motto
-> “learn to code, learn to live.”
+> “motto hidup saya iso gak iso devo farcela”
